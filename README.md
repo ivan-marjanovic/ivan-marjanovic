@@ -1,16 +1,13 @@
-## Hi there 👋
+## Ivan Marjanovic
 
-<!--
-**ivan-marjanovic/ivan-marjanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations Research at Cornell — B.S. December 2026, M.Eng. Applied Operations Research
+May 2027. Available for full-time roles starting June 2027.
 
-Here are some ideas to get you started:
+I work on the probability-heavy side of quantitative finance: stochastic processes,
+statistical inference, and the data infrastructure underneath them. Coursework in
+stochastic processes, Monte Carlo simulation, and optimization; TA for Cornell's
+engineering probability and statistics course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Python (NumPy, pandas, SciPy), SQL, Java, Databricks
+
+im359@cornell.edu · [LinkedIn]([(https://www.linkedin.com/in/ivan-marjanovic-30b77b2bb/])
