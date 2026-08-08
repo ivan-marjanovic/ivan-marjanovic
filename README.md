@@ -1,6 +1,6 @@
 ## Ivan Marjanovic
 
-Operations Research at Cornell — B.S. December 2026, M.Eng. Applied Operations Research
+Operations Research at Cornell - B.S. December 2026, M.Eng. Applied Operations Research
 May 2027. Available for full-time roles starting June 2027.
 
 I work on the probability-heavy side of quantitative finance: stochastic processes,
